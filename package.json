@@ -1,0 +1,16 @@
+{
+  "name": "android-emulator-app",
+  "main": "main.js",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {
+    "react-native": "0.71.8"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.23.0",
+    "electron": "^41.3.0"
+  }
+}
